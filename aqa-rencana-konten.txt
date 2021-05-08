@@ -1,0 +1,6 @@
+RENCANA KONTEN AQA
+
+- Javascript
+- PHP framework
+- Interview
+- Vlogs
