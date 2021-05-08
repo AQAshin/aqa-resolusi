@@ -2,5 +2,5 @@ AQA RESOLUSI
 - Konsisten untuk belajar menggunakan git hub
 - Membuat platform untuk membuat video
 - Membuat forum diskusi
-- Membuat merch shop
 - Kolaborasi dengan lebih banyak expert
+- Membuat vlog
