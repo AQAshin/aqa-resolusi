@@ -3,7 +3,8 @@ RENCANA KONTEN AQA
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
 - PHP framework
+  ^Laravel
 - Interview
 - Vlogs
